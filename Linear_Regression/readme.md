@@ -37,3 +37,5 @@ We:
 
 This isn’t about using fancy libraries. It’s about understanding the core math and coding behind how regression works. By doing everything manually, you get to see exactly what’s going on under the hood.
 (this is for learning purposes)
+
+The data use in the project is available via https://www.key2stats.com/data-set/view/1552
