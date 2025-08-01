@@ -30,3 +30,4 @@ Writing the forward pass (z = Xw, sigmoid(z)) yourself.
 Coding the gradient of the cross-entropy loss and weight updates manually.
 Understanding how probabilities translate to classification decisions via thresholds.
 By doing this from scratch, you see exactly what’s happening under the hood. (this is only for learning purposes! :) )
+dataset used: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
